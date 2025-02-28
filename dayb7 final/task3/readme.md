@@ -1,0 +1,4 @@
+this task is about aggregations with retrival window functions 
+this is about getting country name which has a max cell phones for each year 
+we use mysql workbench to display
+formost we should learn about aggregations in sql
